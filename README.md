@@ -1,2 +1,2 @@
-# Qapture
-This project explores the use of quantum computers to optimize carbon capture methods by simulating molecular interactions using the Variational Quantum Eigensolver (VQE) on neutral atom platforms.
+# Qapture: Quantum-Powered Carbon Capture
+This project explores the use of quantum computers to optimize carbon capture methods by simulating molecular interactions using the Variational Quantum Eigensolver (VQE) on neutral atom platforms. The research focuses on improving the accuracy of ground state energy calculations for molecules involved in CO₂ absorption, aiming to identify better amine-based solvents for industrial carbon capture processes. The study includes theoretical models, quantum algorithms, and implementation strategies on emerging quantum hardware.
